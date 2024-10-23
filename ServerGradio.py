@@ -1,3 +1,5 @@
+# Copyright 2012 MIT Grzegorz Oleksy.
+
 import gradio as gr
 from llama_cpp import Llama
 import time  # Import modułu do pomiaru czasu
